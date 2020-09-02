@@ -17,7 +17,7 @@ Recycle Made Easy is an android application that provides the users with a list 
 Camera and internet permission is required to use application.
 
 ## Test Cases
-Total 7 instrumented unit test cases are written for application, that tests the functionality, and edge cases of the application. To write test case espresso testing on android developer[3] website was referred.
+Instrumented unit test cases are written for application, that tests the functionality, and edge cases of the application. To write test case espresso testing on android developer[3] website was referred.
 
 ## References
 * [1]Android Studio. 2020.
